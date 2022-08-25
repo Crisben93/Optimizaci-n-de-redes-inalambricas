@@ -1,0 +1,5 @@
+Archivos:
+•	En los archivos "Combinación", se encuentra los métodos Modelo Basado en K-means y Propagación combinados. 
+•	En los archivos “Calculo de AP”, se arrojará la posición de cada AP solamente con el método de propagación.
+•	Proyecto_Final_Optimizacion_Simulador, se encuentra el simulador para un AP especifico con respecto a todo el plano
+•	Proyecto_Final_Optimizacion_Simulador2 se encuentra para una zona específica.
